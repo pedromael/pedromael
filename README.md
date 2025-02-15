@@ -19,7 +19,7 @@
 
 | Área            | Tecnologias |
 |------------------|-------------|
-| **Linguagens**   | PHP, JavaScript, Python, C |
+| **Linguagens**   | PHP, JavaScript, Python, C, C++ |
 | **Frameworks**   | Laravel, React.js, Bootstrap |
 | **Banco de Dados** | MySQL, MongoDB |
 | **DevOps**       | Docker, GitHub Actions |
