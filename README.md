@@ -9,8 +9,8 @@
 - 🌱 Atualmente, estou aprendendo **[tecnologias específicas, ex: Docker, GraphQL, etc.]**.
 - 💡 Tenho interesse especial por desenvolvimento **backend**, **web** e **projetos open source**.
 - 🛠️ Meus principais projetos envolvem:
-  - **[SyliaGO](https://github.com/pedromael/SyliaGO)**: Uma plataforma social para desenvolvedores.
-  - **Fast**: O futuro da Linguagem de programacao.
+  - **Mini Jogos feitos em C,C++.
+  - **Fast**: Um compilador feito em C.
 - 🧠 Amo desafios que envolvem **IA**, **devops**, e otimização de sistemas.
 
 ---
@@ -21,7 +21,7 @@
 |------------------|-------------|
 | **Linguagens**   | PHP, JavaScript, Python, C, C++ |
 | **Frameworks**   | Laravel, React.js, Bootstrap |
-| **Banco de Dados** | MySQL, MongoDB |
+| **Banco de Dados** | SQL, MongoDB |
 | **DevOps**       | Docker, GitHub Actions |
 | **Ferramentas**  | VSCode, Postman, Figma |
 
