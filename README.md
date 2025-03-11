@@ -8,10 +8,6 @@
 
 - 🌱 Atualmente, estou aprendendo **[tecnologias específicas, ex: Docker, GraphQL, etc.]**.
 - 💡 Tenho interesse especial por desenvolvimento **backend**, **web** e **projetos open source**.
-- 🛠️ Meus principais projetos envolvem:
-  - **Mini Jogos feitos em C,C++.
-  - **Fast**: Um compilador feito em C.
-- 🧠 Amo desafios que envolvem **IA**, **devops**, e otimização de sistemas.
 
 ---
 
@@ -20,7 +16,7 @@
 | Área            | Tecnologias |
 |------------------|-------------|
 | **Linguagens**   | PHP, JavaScript, Python, C, C++, C# |
-| **Frameworks**   | Laravel, React.js, Bootstrap |
+| **Frameworks**   | Laravel, React.js, Bootstrap, react native |
 | **Banco de Dados** | SQL, MongoDB |
 | **DevOps**       | Docker, GitHub Actions |
 | **Ferramentas**  | VSCode, Postman, Figma |
