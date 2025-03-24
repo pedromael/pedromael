@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou pedro manuel!
+# 👋 Bem Vindo!
 
-🎯 Desenvolvedor de software, sempre buscando criar soluções inovadoras que impactem positivamente o mundo.
+🎯 Desenvolvedor de software.
 
 ---
 
