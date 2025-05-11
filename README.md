@@ -1,6 +1,4 @@
-# 👋 Welcome!
-
-🎯 Software Developer.
+# 🎯 Software Developer
 
 ---
 
